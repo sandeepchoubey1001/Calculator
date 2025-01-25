@@ -1,3 +1,3 @@
 # Calculator
 
-<a href="ttps://sandeepchoubey1001.github.io/Calculator/">👉Live Link </a>
+<a href="https://sandeepchoubey1001.github.io/Calculator/">👉 Live Link </a>
